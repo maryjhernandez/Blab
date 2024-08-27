@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proyect App</string>
+    <string name="find_beer">Buscar</string>
+    <string name="brands">Cero proyectos seleccionados</string>
+    <string-array name="tipos_proyectos">
+        <item>Arte y entrenimiento</item>
+        <item>Agricola y desarrollo rural</item>
+        <item>Energias</item>
+        <item>Recursos hidricos</item>
+        <item>Desarrollo social</item>
+        <item>Infrastructura digital</item>
+        <item>Investigacion y desarrollo(I+D)</item>brands
+    </string-array>
+</resources>
